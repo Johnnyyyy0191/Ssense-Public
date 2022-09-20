@@ -35,7 +35,7 @@ class ssense {
         this.err = false
         this.monitorDelay = 15551
         this.retryDelay = 15551
-        this.email = 'sofake231%40gmail.com'
+        this.email = 'fake231%40gmail.com'
         this.acctEmail = ''
         this.acctPassword = ''
         this.fname = 'John'
